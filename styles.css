@@ -59,6 +59,8 @@ a {
     font-size: 48px;
     background-color: #1F2937;
     display: flex;
+    width: 350px;
+    margin-bottom: 30px;
 
 }
 
@@ -68,6 +70,8 @@ a {
     font-weight: 18px;
     font-size: 18px;
     display: flex;
+    width: 350px;
+
 
 }
 
@@ -142,6 +146,7 @@ a {
 
 
 }
+
 
 #THOR {
     text-align: right;

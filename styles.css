@@ -1,0 +1,39 @@
+
+html {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+.header { 
+    background-color: #1F2937;
+    color: white;
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin: -20px;
+}
+
+.logo {
+    margin-left: 200px;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+
+a { 
+    text-decoration: inherit;
+    color: inherit;
+}
+
+
+.header-links {
+    display: flex;
+    margin-right: 200px;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    gap: 10px;
+    color: #E5E7EB;
+}

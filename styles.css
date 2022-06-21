@@ -53,6 +53,12 @@ a {
     
 }
 
+#hero-img {
+    width:200px; 
+    height:200px; 
+
+}
+
 .hero-main-text{
     color: #F9FAF8;
     font-weight: 800;
